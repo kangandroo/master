@@ -1,0 +1,48 @@
+\begin{symbols}{ll} % Include a list of Symbols (a three column table)
+%Symbol & Name \\
+$\N$	& Tập hợp các số tự nhiên. \\
+$\R$	& Tập hợp các số thực. \\
+$\R^+$	& Tập hợp các số thực không âm.\\
+$\R^d$	& Không gian Euclide $d$ chiều.\\
+$\emptyset$	& Tập hợp rỗng.\\
+$\dim V$	& Số chiều của không gian hữu hạn chiều $V$.\\
+\addlinespace
+$\Om$	& Miền bị chặn trong không gian $\R^d$.\\
+$\pa\Om$ & Biên của miền $\Om$.\\
+$\nv$ & Vector pháp tuyến đơn vị của biên. \\
+$\tau$ & Vector tiếp tuyến đơn vị của biên. \\
+$\Vol(\Om)$ & Thể tích của miền $\Om$ (tương ứng diện tích trong $\R^2$). \\
+$\Per(\Om)$ & Chu vi của miền $\Om$. \\
+\addlinespace
+\addlinespace
+$\na f$			& Ma trận gradient của hàm $f:\R^d \ra \R^d$.\\
+$\Delta f$		& Toán tử Laplace của hàm $f$: $\Delta f = \displaystyle \dfrac{\pa^2 f_1}{\pa x_1^2} + \dfrac{\pa^2 f_2}{\pa x_2^2} +\cdots + \dfrac{\pa^2 f_d}{\pa x_d^2}$.\\
+$\Div f$		& Toán tử vector: $\Div f = \displaystyle \dfrac{\pa f_1}{\pa x_1} + \dfrac{\pa f_2}{\pa x_2} +\cdots + \dfrac{\pa f_d}{\pa x_d}$.\\
+$\Rot f$		& Toán tử vector. Trường hợp $d = 2: \Rot f = \displaystyle \dfrac{\pa f_2}{\pa x_1} - \dfrac{\pa f_1}{\pa x_2}$.\\
+\addlinespace
+$u\cdot \na$ & Toán tử hình thức: $(u\cdot \na)v = \na v.u$ .\\
+$u\cdot v$		& Tích vô hướng của hai vector trong $\R^d$: $u\cdot v = \displaystyle \sum_{i=1}^d u_iv_i$.\\
+$A:B$			& Tích vô hướng Frobenius của hai ma trận: $A: B = \displaystyle \sum_{i,j=1}^d A_{ij}B_{ij}$.\\
+\addlinespace
+$\underset{x \in E}{\essup}\, u(x)$ & Cận trên cốt yếu: $\underset{x \in E}{\essup}\, u(x) = \underset{\vert F\vert = 0}{\inf} ( \underset{x \in E\setminus F}{\sup}\, u(x) )$.\\
+$\alpha$	& Vector đa chỉ số $\alpha = \left\lbrace\alpha_1,\ldots,\alpha_d \right\rbrace, \alpha_i \in \N$ với cấp $\vert \alpha\vert = \displaystyle\sum_{i=1}^d\alpha_i$.\\
+$D^\alpha u$		& Đạo hàm theo đa chỉ số: $\displaystyle\alpha: D^\alpha u = \dfrac{\pa^{\left\vert\alpha\right\vert}u}{\pa x_1^{\alpha_1}\cdots\pa x_d^{\alpha_d}}$.\\
+\addlinespace
+$C^k(E)$			& Không gian các hàm thực có đạo hàm đến cấp $k$ liên tục trên $E$. \\
+$L^p\left(E\right)$ &  Không gian hàm: $L^p\left(E\right) = \left\lbrace  u:E \ra \R \left\vert \displaystyle\int_E \vert u(x)\vert^p\,dx < \infty \right.\right\rbrace$. \\
+$L^\infty\left(E\right)$ &  Không gian hàm: $L^\infty\left(E\right) = \left\lbrace  u:E \ra \R \vert\, \underset{x \in E}{\essup}\,\,  \vert u(x)\vert < \infty\right\rbrace$. \\
+$W^{k, p}\left(E\right)$ & Không gian Sobolev: $\left\lbrace u:E\ra \R \left\vert \displaystyle D^\alpha u  \in L^p(E),\,\forall \left\vert\alpha\right\vert \leq k \right.\right\rbrace$.\\
+$H^1\left(E\right)$ & Không gian Sobolev $H^1\left(E\right) := W^{1, 2}\left(E\right)$.  \\
+$H^2\left(E\right)$ & Không gian Sobolev $H^2\left(E\right) := W^{2, 2}\left(E\right)$.  \\
+$L^q\left(\TT; W^{k,p}(E)\right)$ & Không gian: $\left\lbrace u\in L^q\left(E \times \TT\right) \left\vert u(x, t) \in W^{k, p}\left(E\right),\, \forall t \in \TT\right.\right\rbrace$.\\
+$W^{k, p}(\R^d, \R^d)$ & Không gian hàm: $\left\lbrace f:\R^d\ra \R^d \left\vert \forall i:  f_i(x) \in W^{k, p}(\R^d)\right.\right\rbrace$.\\
+\addlinespace
+$(\cdot, \cdot)$		& Tích vô hướng trong không gian $L^2(\Om)$: $(u, v) = \displaystyle \int_\Om uv \,\,dx$.\\
+$\norm{\cdot}_0$ &  Chuẩn trong không gian $L^2(\Om):\norm{\cdot}_0 = \left(\displaystyle\int_\Om \vert\cdot\vert^2 \,dx\right)^{1/2}$.\\
+$\norm{\cdot}_1$ & Chuẩn trong không gian $H^1(\Om) : \norm{\cdot}_1 = \left( \norm{\cdot}_0^2 + \norm{\na \cdot}_0^2 \right)^{1/2}$.\\
+$\norm{\cdot}_2$ & Chuẩn trong không gian $H^2(\Om) : \norm{\cdot}_2 = \left( \displaystyle\sum_{0 \leq \vert\alpha\vert \leq 2} \norm{D^\alpha \cdot}_0^2 \right)^{1/2}$.\\
+$\norm{\cdot}_\infty$ & Chuẩn trong không gian $L^\infty\left(E\right): \norm{\cdot}_\infty = \underset{x \in E}{\essup}\, \vert\cdot\vert$.\\
+\addlinespace
+\addlinespace
+vđk.		& Viết tắt của cụm từ "với điều kiện". \\
+\end{symbols}

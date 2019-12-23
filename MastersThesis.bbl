@@ -1,0 +1,2417 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Pir73}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PO}{%
+         family={Pironneau},
+         familyi={P\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PO1}
+    \strng{fullhash}{PO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{117\bibrangedash 128}
+    \field{title}{On optimum profiles in \text{Stokes} flow}
+    \field{volume}{59}
+    \field{journaltitle}{Journal of Fluid Mechanics}
+    \field{year}{1973}
+  \endentry
+
+  \entry{Pir74}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PO}{%
+         family={Pironneau},
+         familyi={P\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PO1}
+    \strng{fullhash}{PO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{97\bibrangedash 110}
+    \field{title}{On optimum design in fluid mechanics}
+    \field{volume}{64}
+    \field{journaltitle}{Journal of Fluid Mechanics}
+    \field{year}{1974}
+  \endentry
+
+  \entry{MP04}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MB}{%
+         family={Mohammadi},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PO}{%
+         family={Pironneau},
+         familyi={P\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MBPO1}
+    \strng{fullhash}{MBPO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{255\bibrangedash 279}
+    \field{title}{Shape optimization in fluid mechanics}
+    \field{volume}{36}
+    \field{journaltitle}{Annual Review of Fluid Mechanics}
+    \field{year}{2004}
+  \endentry
+
+  \entry{PTTP06}{article}{}
+    \name{author}{4}{}{%
+      {{hash=POS}{%
+         family={Painchaud-Oullet},
+         familyi={P\bibinitperiod-O\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tribes},
+         familyi={T\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Trepanier},
+         familyi={T\bibinitperiod},
+         given={J.Y.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pelletier},
+         familyi={P\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{POSTCTJ+1}
+    \strng{fullhash}{POSTCTJPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{10}
+    \field{pages}{2170\bibrangedash 2178}
+    \field{title}{Airfoil shape optimization using a nonuniform rational
+  B-spline parametrization under thickness constraint}
+    \field{volume}{44}
+    \field{journaltitle}{IAAA}
+    \field{year}{2006}
+  \endentry
+
+  \entry{QR03}{article}{}
+    \name{author}{2}{}{%
+      {{hash=QA}{%
+         family={Quarteroni},
+         familyi={Q\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Rozza},
+         familyi={R\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{QARG1}
+    \strng{fullhash}{QARG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{12}
+    \field{pages}{1801\bibrangedash 1823}
+    \field{title}{Optimal control and shape optimization of aorto-coronaric
+  bypass anastomoses}
+    \field{volume}{13}
+    \field{journaltitle}{Mathematical Models and Methods in Applied Sciences}
+    \field{year}{2003}
+  \endentry
+
+  \entry{AQR06a}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AV}{%
+         family={Agoshkov},
+         familyi={A\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=QA}{%
+         family={Quarteroni},
+         familyi={Q\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Rozza},
+         familyi={R\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AVQARG1}
+    \strng{fullhash}{AVQARG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2-3}
+    \field{pages}{139\bibrangedash 161}
+    \field{title}{A mathematical approach in the design of arterial bypass
+  using unsteady \text{Stokes} equations}
+    \field{volume}{28}
+    \field{journaltitle}{Journal of Scientific Computing}
+    \field{year}{2006}
+  \endentry
+
+  \entry{AQR06b}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AV}{%
+         family={Agoshkov},
+         familyi={A\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=QA}{%
+         family={Quarteroni},
+         familyi={Q\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Rozza},
+         familyi={R\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AVQARG1}
+    \strng{fullhash}{AVQARG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{367\bibrangedash 384}
+    \field{title}{Shape design in aorto-coronaric bypass anastomoses using
+  perturbation theory}
+    \field{volume}{44}
+    \field{journaltitle}{SIAM Journal on Numerical Analysis}
+    \field{year}{2006}
+  \endentry
+
+  \entry{ADH11}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AF}{%
+         family={Alouges},
+         familyi={A\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={DeSimone},
+         familyi={D\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Heltai},
+         familyi={H\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AFDAHL1}
+    \strng{fullhash}{AFDAHL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{361\bibrangedash 387}
+    \field{title}{Numerical Strategies for Stroke Optimization of Axisymmetric
+  Microswimmers}
+    \field{volume}{21}
+    \field{journaltitle}{Math. Models Methods Appl. Sci.}
+    \field{year}{2011}
+  \endentry
+
+  \entry{BP03}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BT}{%
+         family={Borrvall},
+         familyi={B\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Petersson},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BTPJ1}
+    \strng{fullhash}{BTPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{77\bibrangedash 107}
+    \field{title}{Topology optimization of fluids in \text{Stokes} flow}
+    \field{volume}{41}
+    \field{journaltitle}{International Journal for Numerical Methods in Fluids}
+    \field{year}{2003}
+  \endentry
+
+  \entry{GP06}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GJ}{%
+         family={Guest},
+         familyi={G\bibinitperiod},
+         given={J.K.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Pr{\'e}vost},
+         familyi={P\bibinitperiod},
+         given={J.H.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJPJ1}
+    \strng{fullhash}{GJPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{461\bibrangedash 484}
+    \field{title}{Topology optimization of creeping fluid flows using a
+  \text{Darcy-Stokes} finite element}
+    \field{volume}{66}
+    \field{journaltitle}{International Journal for Numerical Methods in
+  Engineering}
+    \field{year}{2006}
+  \endentry
+
+  \entry{WKB07}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WN}{%
+         family={Wiker},
+         familyi={W\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Klarbring},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Borrvall},
+         familyi={B\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WNKABT1}
+    \strng{fullhash}{WNKABT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1374\bibrangedash 1404}
+    \field{title}{Topology optimization of regions of \text{Darcy} and
+  \text{Stokes} flow}
+    \field{volume}{69}
+    \field{journaltitle}{International Journal for Numerical Methods in
+  Engineering}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Evg06}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EA}{%
+         family={Evgrafov},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EA1}
+    \strng{fullhash}{EA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{46\bibrangedash 62}
+    \field{title}{Topology optimization of slightly compressible fluids}
+    \field{volume}{86}
+    \field{journaltitle}{ZAMM - Z. Angew. Math. Mech}
+    \field{year}{2006}
+  \endentry
+
+  \entry{OOB06}{article}{}
+    \name{author}{3}{}{%
+      {{hash=OL}{%
+         family={Olesen},
+         familyi={O\bibinitperiod},
+         given={L.H.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=OF}{%
+         family={Okkels},
+         familyi={O\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Bruus},
+         familyi={B\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OLOFBH1}
+    \strng{fullhash}{OLOFBH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7}
+    \field{pages}{975\bibrangedash 1001}
+    \field{title}{A high-level programming-language implementation of topology
+  optimization applied to steady-state \text{Navier-Stokes} flow}
+    \field{volume}{65}
+    \field{journaltitle}{International Journal for Numerical Methods in
+  Engineering}
+    \field{year}{2006}
+  \endentry
+
+  \entry{ZL08}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ZS}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LQ}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZSLQ1}
+    \strng{fullhash}{ZSLQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{10178\bibrangedash 10195}
+    \field{title}{A variational level set method for the topology optimization
+  of steady-state \text{Navier-Stokes} flow}
+    \field{volume}{227}
+    \field{journaltitle}{Journal of Computational Physics}
+    \field{year}{2008}
+  \endentry
+
+  \entry{DMZ08b}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DX}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DXMYZR1}
+    \strng{fullhash}{DXMYZR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{487\bibrangedash 499}
+    \field{title}{Shape-topology optimization for \text{Navier-Stokes} problem
+  using variational level set method}
+    \field{volume}{222}
+    \field{journaltitle}{Journal of Computational and Applied Mathematics}
+    \field{year}{2008}
+  \endentry
+
+  \entry{HN96}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HJ}{%
+         family={Haslinger},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NP}{%
+         family={Neittaanm{\"a}ki},
+         familyi={N\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \strng{namehash}{HJNP1}
+    \strng{fullhash}{HJNP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{9780471958505}
+    \field{title}{Finite Element Approximation for Optimal Shape, Material and
+  Topology Design}
+    \field{year}{1996}
+  \endentry
+
+  \entry{BS03}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BM}{%
+         family={Bends{\o}e},
+         familyi={B\bibinitperiod},
+         given={M.P.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Sigmund},
+         familyi={S\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Verlag, Berlin Heidelberg}%
+    }
+    \strng{namehash}{BMSO1}
+    \strng{fullhash}{BMSO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{2nd}
+    \field{title}{Topology Optimization, Theory, Methods and Applications}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Gun03}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GM}{%
+         family={Gunzburger},
+         familyi={G\bibinitperiod},
+         given={M.D.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SIAM}%
+    }
+    \strng{namehash}{GM1}
+    \strng{fullhash}{GM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{Advances in Design and Control}
+    \field{title}{Perspectives in Flow Control and Optimization}
+    \field{year}{2003}
+  \endentry
+
+  \entry{MP10}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MB}{%
+         family={Mohammadi},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PO}{%
+         family={Pironneau},
+         familyi={P\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{MBPO1}
+    \strng{fullhash}{MBPO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Numerical Mathematics and Scientific Computation}
+    \field{edition}{2nd}
+    \field{title}{Applied Shape Optimization for Fluids}
+    \field{year}{2010}
+  \endentry
+
+  \entry{DMZ08a}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DX}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={X.B},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Y.C},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DXMYZR2}
+    \strng{fullhash}{DXMYZR2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{200\bibrangedash 209}
+    \field{title}{Shape-topology optimization of \text{Stokes} flow via
+  variational level set method}
+    \field{volume}{202}
+    \field{journaltitle}{Applied Mathematics and Computation}
+    \field{year}{2008}
+  \endentry
+
+  \entry{BF84}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BV}{%
+         family={Braibant},
+         familyi={B\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={FIeury},
+         familyi={F\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BVFC1}
+    \strng{fullhash}{BVFC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{247\bibrangedash 267}
+    \field{title}{Shape optimal design using \text{B-splines}}
+    \field{volume}{44}
+    \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+    \field{year}{1984}
+  \endentry
+
+  \entry{BN88}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BM}{%
+         family={Bends{\o}e},
+         familyi={B\bibinitperiod},
+         given={M.P.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KN}{%
+         family={Kikuchi},
+         familyi={K\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMKN1}
+    \strng{fullhash}{BMKN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{197\bibrangedash 224}
+    \field{title}{Generating Optimal Topologies in Structural Design using a
+  Homogenization method}
+    \field{volume}{71}
+    \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+    \field{year}{1988}
+  \endentry
+
+  \entry{Ben95}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Bends{\o}e},
+         familyi={B\bibinitperiod},
+         given={M.P.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer- Verlag, New York}%
+    }
+    \strng{namehash}{BM1}
+    \strng{fullhash}{BM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Shape and Material}
+    \field{title}{Methods for Optimization of Structural Topology}
+    \field{year}{1995}
+  \endentry
+
+  \entry{ABFJ97}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AG}{%
+         family={Allaire},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Bonnetier},
+         familyi={B\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Francfort},
+         familyi={F\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jouve},
+         familyi={J\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AGBEFG+1}
+    \strng{fullhash}{AGBEFGJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{27\bibrangedash 68}
+    \field{title}{Shape optimization by the homogenization method}
+    \field{volume}{76}
+    \field{journaltitle}{Numer. Math.}
+    \field{year}{1997}
+  \endentry
+
+  \entry{All02}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AG}{%
+         family={Allaire},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Verlag}%
+    }
+    \strng{namehash}{AG1}
+    \strng{fullhash}{AG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Shape optimization by the homogenization method}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2002}
+  \endentry
+
+  \entry{WWG03}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WM}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={M.Y.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={X.M.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Guo},
+         familyi={G\bibinitperiod},
+         given={D.M.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WMWXGD1}
+    \strng{fullhash}{WMWXGD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{227\bibrangedash 246}
+    \field{title}{A level set method for structural topology optimization}
+    \field{volume}{192}
+    \field{journaltitle}{Computer Methods in Applied Mechanics and Engineering}
+    \field{year}{2003}
+  \endentry
+
+  \entry{AJT04}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AG}{%
+         family={Allaire},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jouve},
+         familyi={J\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Toader},
+         familyi={T\bibinitperiod},
+         given={A.M.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AGJFTA1}
+    \strng{fullhash}{AGJFTA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{363\bibrangedash 393}
+    \field{title}{Structural optimization using shape sensitivity analysis and
+  a level-set method}
+    \field{volume}{194}
+    \field{journaltitle}{Journal of Computational Physics}
+    \field{year}{2004}
+  \endentry
+
+  \entry{KHC09}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KM}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={M.G.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Ha},
+         familyi={H\bibinitperiod},
+         given={S.H.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Cho},
+         familyi={C\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KMHSCS1}
+    \strng{fullhash}{KMHSCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{550\bibrangedash 582}
+    \field{title}{Level Set--Based Topological Shape Optimization of Nonlinear
+  Heat Conduction Problems Using Topological Derivatives}
+    \field{volume}{37}
+    \field{journaltitle}{Mech. Based Design Struct. Machines}
+    \field{year}{2009}
+  \endentry
+
+  \entry{HC05}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HS}{%
+         family={Ha},
+         familyi={H\bibinitperiod},
+         given={S.H.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Cho},
+         familyi={C\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HSCS1}
+    \strng{fullhash}{HSCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{67\bibrangedash 88}
+    \field{title}{Topological shape optimization of heat conduction problems
+  using level set approach}
+    \field{volume}{48}
+    \field{journaltitle}{Numerical Heat Transfer, Part B: Fundamentals: An
+  International Journal of Computation and Methodology}
+    \field{year}{2005}
+  \endentry
+
+  \entry{HC08}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HS}{%
+         family={Ha},
+         familyi={H\bibinitperiod},
+         given={S.H.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Cho},
+         familyi={C\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HSCS1}
+    \strng{fullhash}{HSCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{454\bibrangedash 475}
+    \field{title}{Level Set-Based Topological Shape Optimization of Nonlinear
+  Heat Conduction Problems}
+    \field{volume}{54}
+    \field{journaltitle}{Numerical Heat Transfer, part B}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Hec12}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HF}{%
+         family={Hecht},
+         familyi={H\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HF1}
+    \strng{fullhash}{HF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{issn}{1570-2820}
+    \field{number}{3-4}
+    \field{pages}{251\bibrangedash 265}
+    \field{title}{New development in FreeFem++}
+    \field{volume}{20}
+    \field{journaltitle}{J. Numer. Math.}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Tem77}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TR}{%
+         family={Temam},
+         familyi={T\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {North-Holland}%
+    }
+    \strng{namehash}{TR1}
+    \strng{fullhash}{TR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{Studies in mathematics and its applications}
+    \field{title}{Navier-Stokes Equations: Theory and Numerical Analysis}
+    \field{year}{1979}
+  \endentry
+
+  \entry{FMRT01}{book}{}
+    \name{author}{4}{}{%
+      {{hash=FC}{%
+         family={Foias},
+         familyi={F\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MO}{%
+         family={Manley},
+         familyi={M\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Rosa},
+         familyi={R\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TR}{%
+         family={Temam},
+         familyi={T\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{FCMORR+1}
+    \strng{fullhash}{FCMORRTR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{Encyclopedia of Mathematics and its Applications}
+    \field{title}{Navier-Stokes Equations and Turbulence}
+    \field{year}{2001}
+  \endentry
+
+  \entry{EG04}{book}{}
+    \name{author}{2}{}{%
+      {{hash=EA}{%
+         family={Ern},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GJL}{%
+         family={Guermond},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{EAGJL1}
+    \strng{fullhash}{EAGJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Theory and Practice of Finite Elements}
+    \field{volume}{159}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Qua93}{book}{}
+    \name{author}{1}{}{%
+      {{hash=QL}{%
+         family={Quartapelle},
+         familyi={Q\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \list{publisher}{1}{%
+      {Basel ; Boston : Birkh\"auser Verlag}%
+    }
+    \strng{namehash}{QL1}
+    \strng{fullhash}{QL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Numerical solution of the incompressible \text{Navier-Stokes}
+  equations}
+    \field{year}{1993}
+  \endentry
+
+  \entry{Qua09}{book}{}
+    \name{author}{1}{}{%
+      {{hash=QA}{%
+         family={Quarteroni},
+         familyi={Q\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{QA1}
+    \strng{fullhash}{QA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{chapter}{15}
+    \field{series}{MS-A}
+    \field{title}{Numerical Models for Differential Problems}
+    \field{volume}{2}
+    \field{year}{2009}
+  \endentry
+
+  \entry{BIK+80}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=BJ}{%
+         family={Benqu{\'e}},
+         familyi={B\bibinitperiod},
+         given={J.P.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=IB}{%
+         family={Ibler},
+         familyi={I\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Keramsi},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={Labadir},
+         familyi={L\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Proceedings of the third international conference on the finite elements
+  in flow problems}%
+    }
+    \strng{namehash}{BJIBKA+1}
+    \strng{fullhash}{BJIBKALG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A finite element method for the \text{Navier-Stokes}
+  equations}
+    \field{year}{1980}
+  \endentry
+
+  \entry{Ta15}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=TM}{%
+         family={Ta},
+         familyi={T\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TM1}
+    \strng{fullhash}{TM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Mod{\'e}lisation des probl{\`e}mes bi-fluides par la
+  m{\'e}thode des lignes de niveau et l'adaptation du maillage : Application
+  {\`a} l'optimisation des formes}
+    \list{institution}{1}{%
+      {Universit{\'e} Pierre et Marie Curie - Paris VI}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2015}
+  \endentry
+
+  \entry{MPS88}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MK}{%
+         family={Morton},
+         familyi={M\bibinitperiod},
+         given={K.W.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Priestley},
+         familyi={P\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Suli},
+         familyi={S\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MKPASE1}
+    \strng{fullhash}{MKPASE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{625\bibrangedash 653}
+    \field{title}{Stability of the \text{Lagrange-Galerkin} method with
+  non-exact integration}
+    \field{volume}{22}
+    \field{journaltitle}{RAIRO-Mod{\'e}lisation math{\'e}matique et analyse
+  num{\'e}rique}
+    \field{year}{1988}
+  \endentry
+
+  \entry{Fou02}{report}{}
+    \name{author}{1}{}{%
+      {{hash=FG}{%
+         family={Fourestey},
+         familyi={F\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FG1}
+    \strng{fullhash}{FG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4505}
+    \field{title}{Stabilit{\'e} des m{\'e}thodes de \text{Lagrange-Galerkin} du
+  premier et du second ordre}
+    \list{institution}{1}{%
+      {INRIA Rocquencourt}%
+    }
+    \field{type}{techreport}
+    \field{year}{2002}
+  \endentry
+
+  \entry{GR86}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GV}{%
+         family={Girault},
+         familyi={G\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Raviart},
+         familyi={R\bibinitperiod},
+         given={P.A},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Verlag}%
+    }
+    \strng{namehash}{GVRP1}
+    \strng{fullhash}{GVRP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Finite Element Methods for Navier-Stokes Equations}
+    \field{year}{1986}
+  \endentry
+
+  \entry{QV94}{book}{}
+    \name{author}{2}{}{%
+      {{hash=QAM}{%
+         family={Quarteroni},
+         familyi={Q\bibinitperiod},
+         given={A.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Valli},
+         familyi={V\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Publishing Company, Incorporated}%
+    }
+    \strng{namehash}{QAMVA1}
+    \strng{fullhash}{QAMVA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{1st ed. 1994. 2nd printing}
+    \field{isbn}{3540852670, 9783540852674}
+    \field{title}{Numerical Approximation of Partial Differential Equations}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Pir89}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PO}{%
+         family={Pironneau},
+         familyi={P\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \strng{namehash}{PO1}
+    \strng{fullhash}{PO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The finite element methods for fluids}
+    \field{year}{1989}
+  \endentry
+
+  \entry{BBD+06}{book}{}
+    \name{author}{6}{}{%
+      {{hash=BD}{%
+         family={Boffi},
+         familyi={B\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Brezzi},
+         familyi={B\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DLF}{%
+         family={Demkowicz},
+         familyi={D\bibinitperiod},
+         given={L.\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=DRG}{%
+         family={Dur\'an},
+         familyi={D\bibinitperiod},
+         given={R.\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=FRS}{%
+         family={Falk},
+         familyi={F\bibinitperiod},
+         given={Richard\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fortin},
+         familyi={F\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BDBFDLF+1}
+    \strng{fullhash}{BDBFDLFDRGFRSFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Mixed Finite Elements, Compatibility Conditions, and
+  Applications}
+    \field{year}{2006}
+  \endentry
+
+  \entry{AHU58}{book}{}
+    \name{author}{3}{}{%
+      {{hash=AK}{%
+         family={Arrow},
+         familyi={A\bibinitperiod},
+         given={K.J.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Hurwicz},
+         familyi={H\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=UH}{%
+         family={Uzawa},
+         familyi={U\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Stanford University Press, Stanford, Calif}%
+    }
+    \strng{namehash}{AKHLUH1}
+    \strng{fullhash}{AKHLUH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Studies in linear and non-linear programming}
+    \field{volume}{II}
+    \field{year}{1958}
+  \endentry
+
+  \entry{She94}{booklet}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Shewchuk},
+         familyi={S\bibinitperiod},
+         given={J.R.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{An introduction to the conjugate gradient method without the
+  agonizing pain}
+    \list{location}{1}{%
+      {School of Computer Science, Carnegie Mellon University, Pittsburgh}%
+    }
+    \field{year}{1994}
+  \endentry
+
+  \entry{Saa03}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SY}{%
+         family={Saad},
+         familyi={S\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Society for Industrial}%
+      {Applied Mathematics}%
+    }
+    \strng{namehash}{SY1}
+    \strng{fullhash}{SY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Iterative methods for sparse linear systems}
+    \list{location}{1}{%
+      {Philadelphia, PA}%
+    }
+    \field{year}{2003}
+  \endentry
+
+  \entry{YJ07}{article}{}
+    \name{author}{2}{}{%
+      {{hash=YG}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YGJP1}
+    \strng{fullhash}{YGJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{194\bibrangedash 205}
+    \field{title}{\text{SSOR} and \text{ASSOR} preconditioners for
+  \text{Block-Broyden} method}
+    \field{volume}{188}
+    \field{journaltitle}{Applied Mathematics and Computation}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Pir82}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PO}{%
+         family={Pironneau},
+         familyi={P\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PO1}
+    \strng{fullhash}{PO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{309\bibrangedash 332}
+    \field{title}{On the Transport-Diffusion Algorithm and Its Applications to
+  the \text{Navier-Stokes} Equations}
+    \field{volume}{38}
+    \field{journaltitle}{Numerische Mathematik}
+    \field{year}{1982}
+  \endentry
+
+  \entry{Lab09}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LA}{%
+         family={Labovschii},
+         familyi={L\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LA1}
+    \strng{fullhash}{LA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 25}
+    \field{title}{A defect correction method for the time‐dependent
+  Navier‐Stokes equations}
+    \field{volume}{25}
+    \field{journaltitle}{Numerical Methods for Partial Differential Equations}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Ghia}{article}{}
+    \name{author}{1}{}{%
+      {{hash=UGCSKG}{%
+         family={U.\bibnamedelima Ghia},
+         familyi={U\bibinitperiod\bibinitdelim G\bibinitperiod},
+         suffix={K.N.\bibnamedelima Ghia},
+         suffixi={K\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={C.T\bibnamedelima Shin},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UGKGCS1}
+    \strng{fullhash}{UGKGCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{387\bibrangedash 411}
+    \field{title}{High-Resolution for incompressible flow using the
+  \text{Navier-Stokes} equations and a multigrid method}
+    \field{volume}{48}
+    \field{journaltitle}{Journal of Computational Physics}
+    \field{year}{1982}
+  \endentry
+
+  \entry{ECG05}{article}{}
+    \name{author}{3}{}{%
+      {{hash=EE}{%
+         family={Erturk},
+         familyi={E\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Corke},
+         familyi={C\bibinitperiod},
+         given={T.C.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Gokcol},
+         familyi={G\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EECTGC1}
+    \strng{fullhash}{EECTGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{747\bibrangedash 774}
+    \field{title}{Numerical solutions of \text{2D} steady incompressible driven
+  cavity flow at high \text{Reynolds} numbers}
+    \field{volume}{48}
+    \field{journaltitle}{International Journal for Numerical Methods in Fluids}
+    \field{year}{2005}
+  \endentry
+
+  \entry{GM99}{report}{}
+    \name{author}{2}{}{%
+      {{hash=GM}{%
+         family={Gorazd},
+         familyi={G\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Mohammadi},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMMB1}
+    \strng{fullhash}{GMMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3644}
+    \field{title}{\text{NSIKE}- An Incompressible \text{Navier-Stokes} Solver
+  for Unstructured Meshes}
+    \list{institution}{1}{%
+      {INRIA Rocquencourt}%
+    }
+    \field{type}{techreport}
+    \field{year}{1999}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ABPV12}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AR}{%
+         family={Araya},
+         familyi={A\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BGR}{%
+         family={Barrenechea},
+         familyi={B\bibinitperiod},
+         given={G.\bibnamedelima R.},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=PAH}{%
+         family={Poza},
+         familyi={P\bibinitperiod},
+         given={A.\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=VF}{%
+         family={Valentin},
+         familyi={V\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ARBGRPAH+1}
+    \strng{fullhash}{ARBGRPAHVF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{669\bibrangedash 699}
+    \field{title}{Convergence analysis of a residual local projection finite
+  element method for the \text{Navier-Stokes} equations.}
+    \field{volume}{50}
+    \field{journaltitle}{SIAM J. Numer. Anal.}
+    \field{year}{2012}
+  \endentry
+
+  \entry{APV14}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AR}{%
+         family={Araya},
+         familyi={A\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PAH}{%
+         family={Poza},
+         familyi={P\bibinitperiod},
+         given={A.\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=VF}{%
+         family={Valentin},
+         familyi={V\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ARPAHVF1}
+    \strng{fullhash}{ARPAHVF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{An adaptive residual local projection finite element method
+  for the \text{Navier--Stokes} equations}
+    \field{journaltitle}{Adv Comput Math}
+    \field{year}{2014}
+  \endentry
+
+  \entry{HRK+10}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HE}{%
+         family={Hachem},
+         familyi={H\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RB}{%
+         family={Rivaux},
+         familyi={R\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kloczko},
+         familyi={K\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DH}{%
+         family={Digonnet},
+         familyi={D\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Coupez},
+         familyi={C\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HERBKT+1}
+    \strng{fullhash}{HERBKTDHCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{23}
+    \field{pages}{8643–8665}
+    \field{title}{Stabilized finite element method for incompressible flows
+  with high Reynolds number}
+    \field{volume}{229}
+    \field{journaltitle}{Journal of Computational Physics}
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{STD+96}{inbook}{}
+    \name{author}{5}{}{%
+      {{hash=SM}{%
+         family={Sch{\"a}fer},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TS}{%
+         family={Turek},
+         familyi={T\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DF}{%
+         family={Durst},
+         familyi={D\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Krause},
+         familyi={K\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Rannacher},
+         familyi={R\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=HEH}{%
+         family={Hirschel},
+         familyi={H\bibinitperiod},
+         given={Ernst\bibnamedelima Heinrich},
+         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Vieweg+Teubner Verlag}%
+    }
+    \strng{namehash}{SMTSDF+1}
+    \strng{fullhash}{SMTSDFKERR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Flow Simulation with High-Performance Computers II: DFG
+  Priority Research Programme Results 1993--1995}
+    \field{isbn}{978-3-322-89849-4}
+    \field{pages}{547\bibrangedash 566}
+    \field{title}{Benchmark Computations of Laminar Flow Around a Cylinder}
+    \list{location}{1}{%
+      {Wiesbaden}%
+    }
+    \field{year}{1996}
+  \endentry
+
+  \entry{SHW15}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SZ}{%
+         family={Si},
+         familyi={S\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor & Francis}%
+    }
+    \strng{namehash}{SZHYWY1}
+    \strng{fullhash}{SZHYWY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{701\bibrangedash 724}
+    \field{title}{Modified characteristics mixed defect-correction finite
+  element method for the time-dependent Navier–Stokes problems}
+    \field{volume}{94}
+    \field{journaltitle}{Applicable Analysis}
+    \field{year}{2015}
+  \endentry
+
+  \entry{ADPS83}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ABF}{%
+         family={Armaly},
+         familyi={A\bibinitperiod},
+         given={B.\bibnamedelima F.},
+         giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=DF}{%
+         family={Durst},
+         familyi={D\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PJCF}{%
+         family={Pereira},
+         familyi={P\bibinitperiod},
+         given={J.\bibnamedelima C.\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Schonung},
+         familyi={S\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ABFDFPJCF+1}
+    \strng{fullhash}{ABFDFPJCFSB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{473\bibrangedash 496}
+    \field{title}{Experimental and theoretical investigation of backward-facing
+  step flow}
+    \field{volume}{127}
+    \field{journaltitle}{J . Fluid Mech.}
+    \field{year}{1983}
+  \endentry
+
+  \entry{LMK97}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LH}{%
+         family={Le},
+         familyi={L\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Moin},
+         familyi={M\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LHMPKJ1}
+    \strng{fullhash}{LHMPKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{349-374}
+    \field{title}{Direct numerical simulation of turbulent flow over a
+  backward-facing step}
+    \field{volume}{330}
+    \field{journaltitle}{J. Fluid Mech}
+    \field{year}{1997}
+  \endentry
+
+  \entry{HP18}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HA}{%
+         family={Henrot},
+         familyi={H\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pierre},
+         familyi={P\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {European Mathematical Society}%
+    }
+    \strng{namehash}{HAPM1}
+    \strng{fullhash}{HAPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Shape Variation and Optimization. A Geometrical Analysis}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Pir84}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PO}{%
+         family={Pironneau},
+         familyi={P\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{PO1}
+    \strng{fullhash}{PO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Optimal Shape Design for Elliptic Systems}
+    \field{year}{1984}
+  \endentry
+
+  \entry{RR93}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PM}{%
+         family={Pierre},
+         familyi={P\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Roche},
+         familyi={R\bibinitperiod},
+         given={J.R.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PMRJ1}
+    \strng{fullhash}{PMRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{issn}{0945-3245}
+    \field{number}{1}
+    \field{pages}{203\bibrangedash 217}
+    \field{title}{Numerical simulation of tridimensional electromagnetic
+  shaping of liquid metals}
+    \field{volume}{65}
+    \field{journaltitle}{Numerische Mathematik}
+    \field{year}{1993}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hes69}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HMR}{%
+         family={Hestenes},
+         familyi={H\bibinitperiod},
+         given={M.\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HMR1}
+    \strng{fullhash}{HMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{issn}{1573-2878}
+    \field{number}{5}
+    \field{pages}{303\bibrangedash 320}
+    \field{title}{Multiplier and gradient methods}
+    \field{volume}{4}
+    \field{journaltitle}{Journal of Optimization Theory and Applications}
+    \field{year}{1969}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{NW06}{book}{}
+    \name{author}{2}{}{%
+      {{hash=NJ}{%
+         family={Nocedal},
+         familyi={N\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Wright},
+         familyi={W\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{NJWS1}
+    \strng{fullhash}{NJWS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Numerical Optimization}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Had07}{report}{}
+    \name{author}{1}{}{%
+      {{hash=HJ}{%
+         family={Hadamard},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ1}
+    \strng{fullhash}{HJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{M{\'e}moire sur le probl{\`e}me d'analyse relatif {\`a}
+  l'{\'e}quilibre des plaque {\'e}lastiques encastr{\'e}es}
+    \list{institution}{1}{%
+      {Bull. Soc. Math. France}%
+    }
+    \field{type}{techreport}
+    \field{year}{1907}
+  \endentry
+
+  \entry{SZ92}{book}{}
+    \name{author}{2}{}{%
+      {{hash=SJ}{%
+         family={Sokolowski},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZJP}{%
+         family={Zolesio},
+         familyi={Z\bibinitperiod},
+         given={J.-P.},
+         giveni={J\bibinitperiod-P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SJZJP1}
+    \strng{fullhash}{SJZJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{Series in Computational Mathematics}
+    \field{title}{Introduction to Shape Optimization; Shape Sensitivity
+  Analysis}
+    \field{volume}{16}
+    \list{location}{1}{%
+      {Heidelberg}%
+    }
+    \field{year}{1992}
+  \endentry
+
+  \entry{MS76a}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=MF}{%
+         family={Murat},
+         familyi={M\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Verlag, Berlin}%
+    }
+    \strng{namehash}{MFSS1}
+    \strng{fullhash}{MFSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Lecture Notes in Computer Science 41}
+    \field{pages}{54\bibrangedash 62}
+    \field{title}{Etudes de probl{\`e}mes d'optimal design}
+    \field{year}{1976}
+  \endentry
+
+  \entry{Sim80}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ2}
+    \strng{fullhash}{SJ2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{649\bibrangedash 687}
+    \field{title}{Differentiation with respect to the domain in boundary value
+  problems}
+    \field{volume}{2}
+    \field{journaltitle}{Numer. Funct. Anal. Optim.}
+    \field{year}{1980}
+  \endentry
+
+  \entry{All06}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AG}{%
+         family={Allaire},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer, Heidelberg}%
+    }
+    \strng{namehash}{AG1}
+    \strng{fullhash}{AG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Conception optimale de structures, Mathematiques et
+  Applications}
+    \field{volume}{58}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Cea86}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={C{\'e}a},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{20}
+    \field{pages}{371\bibrangedash 420}
+    \field{title}{Conception optimale ou identification de formes, calcul
+  rapide de la d{\'e}riv{\'e}e directionnelle de la fonction co{\^u}t}
+    \field{volume}{3}
+    \field{journaltitle}{Math. Model. Num.}
+    \field{year}{1986}
+  \endentry
+
+  \entry{Dap13}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=DC}{%
+         family={Dapogny},
+         familyi={D\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DC1}
+    \strng{fullhash}{DC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Shape optimization, level set methods on unstructured meshes
+  and mesh evolution}
+    \list{institution}{1}{%
+      {Universite Pierre et Marie Curie}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Bur03}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Burger},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM2}
+    \strng{fullhash}{BM2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{301\bibrangedash 329}
+    \field{title}{A framework for the construction of level-set methods for
+  shape optimization and reconstruction}
+    \field{volume}{5}
+    \field{journaltitle}{Interfaces and Free Boundaries}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Gou06}{article}{}
+    \name{author}{1}{}{%
+      {{hash=dGF}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Gournay},
+         familyi={G\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GFd1}
+    \strng{fullhash}{GFd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{343\bibrangedash 367}
+    \field{title}{Velocity extension for the level-set method and multiple
+  eigenvalues in shape optimization}
+    \field{volume}{45}
+    \field{journaltitle}{SIAM J. on Control and Optim}
+    \field{year}{2006}
+  \endentry
+
+  \entry{DMNV07}{article}{}
+    \name{author}{4}{}{%
+      {{hash=DG}{%
+         family={Dogan},
+         familyi={D\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pedro},
+         familyi={P\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NR}{%
+         family={Nochetto},
+         familyi={N\bibinitperiod},
+         given={R.H.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Verani},
+         familyi={V\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DGPMNR+1}
+    \strng{fullhash}{DGPMNRVM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Computer Methods in Applied Mechanics and Engineering}
+    \field{pages}{3898\bibrangedash 3914}
+    \field{title}{Discrete gradient flows for shape optimization and
+  applications}
+    \field{volume}{196}
+    \field{month}{08}
+    \field{year}{2007}
+  \endentry
+
+  \entry{DFOP17}{unpublished}{}
+    \name{author}{4}{}{%
+      {{hash=DC}{%
+         family={Dapogny},
+         familyi={D\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=FP}{%
+         family={Frey},
+         familyi={F\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=OF}{%
+         family={Omn\`es},
+         familyi={O\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Privat},
+         familyi={P\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DCFPOF+1}
+    \strng{fullhash}{DCFPOFPY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Geometrical shape optimization in Fluid Mechanics using
+  Freefem++, working paper or preprint}
+    \field{month}{03}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Pri08}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=PY}{%
+         family={Privat},
+         familyi={P\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PY1}
+    \strng{fullhash}{PY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Quelques probl{\`e}mes d'optimisation de formes en sciences
+  du vivant}
+    \list{institution}{1}{%
+      {Universit{\'e} Henri Poincar{\'e}, Nancy-I}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2008}
+  \endentry
+
+  \entry{CG09}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CV}{%
+         family={Challis},
+         familyi={C\bibinitperiod},
+         given={V.J.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Guest},
+         familyi={G\bibinitperiod},
+         given={J.K.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CVGJ1}
+    \strng{fullhash}{CVGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1284\bibrangedash 1308}
+    \field{title}{Level set topology optimization of fluids in \text{Stokes}
+  flow}
+    \field{volume}{79}
+    \field{journaltitle}{International Journal for Numerical Methods in
+  Engineering}
+    \field{year}{2009}
+  \endentry
+
+  \entry{GMZ08}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GZ}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhuang},
+         familyi={Z\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GZMYZH1}
+    \strng{fullhash}{GZMYZH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{827\bibrangedash 844}
+    \field{title}{Drag minimization for Stokes flow}
+    \field{volume}{58}
+    \field{journaltitle}{Applied Numerical Mathematics}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SMP11}{article}{}
+    \name{author}{3}{}{%
+      {{hash=dLSXD}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={La\bibnamedelima Sabloniere},
+         familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={X.\bibnamedelima D.},
+         giveni={X\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Mauroy},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Privat},
+         familyi={P\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LSXDdMBPY1}
+    \strng{fullhash}{LSXDdMBPY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{767\bibrangedash 799}
+    \field{title}{Shape minimization of the dissipated energy in dyadic trees}
+    \field{volume}{16}
+    \field{journaltitle}{Discrete and Continuous Dynamical Systems. Series B}
+    \field{year}{2011}
+  \endentry
+
+  \entry{YWM13}{article}{}
+    \name{author}{3}{}{%
+      {{hash=YW}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YWWAMY1}
+    \strng{fullhash}{YWWAMY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The Application of Shape Gradient for the Incompressible
+  Fluid in Shape Optimization}
+    \field{volume}{2013}
+    \field{journaltitle}{Mathematical Problems in Engineering}
+    \field{year}{2013}
+  \endentry
+
+  \entry{AAA+14}{article}{}
+    \name{author}{4}{}{%
+      {{hash=JA}{%
+         family={Joe},
+         familyi={J\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Niels},
+         familyi={N\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schousboe},
+         familyi={S\bibinitperiod},
+         given={A.C.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=OS}{%
+         family={Ole},
+         familyi={O\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JANASA+1}
+    \strng{fullhash}{JANASAOS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{10}
+    \field{pages}{699\bibrangedash 721}
+    \field{title}{Topology optimisation for natural convection problems}
+    \field{volume}{76}
+    \field{journaltitle}{International Journal for Numerical Methods in Fluids}
+    \field{year}{2014}
+  \endentry
+\enddatalist
+\endinput
