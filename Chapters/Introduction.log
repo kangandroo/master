@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.19)  4 OCT 2019 07:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.19)  8 SEP 2020 01:22
 entering extended mode
 **./Introduction.tex
 (Introduction.tex
@@ -85,59 +85,6 @@ Type  H <return>  for immediate help.
                                                   
 l.1 \chapter*{\centering Lời nói đầ
                                          u}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no u in font nullfont!
-! Undefined control sequence.
-l.2 \addstarredchapter
-                      {Lời nói đầu}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no L in font nullfont!
-
-! Package inputenc Error: Unicode character ờ (U+1EDD)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \addstarredchapter{Lờ
-                           i nói đầu}
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-
-! LaTeX Error: Command \dj unavailable in encoding .
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \addstarredchapter{Lời nói đ
-                                    ầu}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode character ầ (U+1EA7)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \addstarredchapter{Lời nói đầ
-                                       u}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1623,14 +1570,82 @@ Type  H <return>  for immediate help.
                                                   
 l.4 Phươ
           ng pháp phần tử hữu hạn giải bài toán đàn hồi b�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+
+! Package inputenc Error: Unicode character ầ (U+1EA7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 Phương pháp phầ
+                        n tử hữu hạn giải bài toán đàn hồi b�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package inputenc Error: Unicode character ử (U+1EED)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 Phương pháp phần tử
+                               hữu hạn giải bài toán đàn hồi b�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no h in font nullfont!
+
+! Package inputenc Error: Unicode character ữ (U+1EEF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 Phương pháp phần tử hữ
+                                   u hạn giải bài toán đàn hồi b�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no u in font nullfont!
+Missing character: There is no h in font nullfont!
+
+! Package inputenc Error: Unicode character ạ (U+1EA1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 Phương pháp phần tử hữu hạ
+                                         n giải bài toán đàn hồi b�...
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 53 strings out of 492902
- 670 string characters out of 3122405
- 58581 words of memory out of 3000000
- 4060 multiletter control sequences out of 15000+200000
+ 55 strings out of 492902
+ 695 string characters out of 3122405
+ 58579 words of memory out of 3000000
+ 4062 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 16i,1n,16p,802b,102s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 16i,1n,16p,837b,102s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

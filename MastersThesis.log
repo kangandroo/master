@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.19)  23 DEC 2019 18:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.19)  8 SEP 2020 12:25
 entering extended mode
 **./MastersThesis.tex
 (MastersThesis.tex
@@ -1933,7 +1933,7 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 131.
+(scrhack)             need that hack, on input line 132.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdfte
@@ -1950,10 +1950,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip145
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 131.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 131.
-Package hyperref Info: Option `colorlinks' set `true' on input line 131.
-Package hyperref Info: Option `unicode' set `true' on input line 131.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 132.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 132.
+Package hyperref Info: Option `colorlinks' set `true' on input line 132.
+Package hyperref Info: Option `unicode' set `true' on input line 132.
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.
 def"
@@ -1961,7 +1961,7 @@ File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 131.
+Package hyperref Info: Option `breaklinks' set `true' on input line 132.
 
 
 Package biblatex Warning: File 'english-ieee.lbx' not found!
@@ -1981,30 +1981,49 @@ Package csquotes Info: ... found 'babel' package.
 LaTeX Warning: Unused global option(s):
     [addchap].
 
-(MastersThesis.aux (Chapters/Introduction.aux))
+(MastersThesis.aux
+
+LaTeX Warning: Label `fig:w0' multiply defined.
+
+
+LaTeX Warning: Label `fig:w0' multiply defined.
+
+
+LaTeX Warning: Label `fig:w0' multiply defined.
+
+
+LaTeX Warning: Label `fig:w0' multiply defined.
+
+
+LaTeX Warning: Label `fig:w0' multiply defined.
+
+
+LaTeX Warning: Label `fig:w0' multiply defined.
+
+)
 \openout1 = `MastersThesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Try loading font information for T5+ptm on input line 131.
-
-("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/vntex\t5ptm.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Try loading font information for T5+ptm on input line 132.
+ ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/vntex\t5ptm.fd
+"
 File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
 )
 Now handling font encoding TS1 ...
@@ -2135,12 +2154,12 @@ Package caption Info: End \AtBeginDocument code.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * bindingoffset: 14.22636pt
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(99.58464pt, 426.79137pt, 56.9055pt)
-* v-part:(T,H,B)=(99.58464pt, 660.10394pt, 85.35826pt)
+* h-part:(L,W,R)=(99.58464pt, 412.56499pt, 71.13188pt)
+* v-part:(T,H,B)=(99.58464pt, 688.5567pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=426.79137pt
-* \textheight=636.05717pt
+* \textwidth=412.56499pt
+* \textheight=664.50993pt
 * \oddsidemargin=41.54102pt
 * \evensidemargin=27.31465pt
 * \topmargin=27.31465pt
@@ -2162,7 +2181,7 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 131.
+(scrlayer)             \begin{document} on input line 132.
 
 Package scrlayer-scrpage Warning: Very small head height detected!
 (scrlayer-scrpage)                Using scrlayer-scrpage the head height
@@ -2174,19 +2193,19 @@ Package scrlayer-scrpage Warning: Very small head height detected!
 (scrlayer-scrpage)                geometry option `head=21.75pt'
 (scrlayer-scrpage)                \relax to avoid this warning.
 
-Package scrbase Info: activating english \abbrevname on input line 131.
-Package scrbase Info: activating english \byname on input line 131.
-Package scrbase Info: activating english \acknowledgementname on input line 131
+Package scrbase Info: activating english \abbrevname on input line 132.
+Package scrbase Info: activating english \byname on input line 132.
+Package scrbase Info: activating english \acknowledgementname on input line 132
 .
-Package scrbase Info: activating english \authorshipname on input line 131.
-Package scrbase Info: activating english \constantsname on input line 131.
-Package scrbase Info: activating english \symbolsname on input line 131.
+Package scrbase Info: activating english \authorshipname on input line 132.
+Package scrbase Info: activating english \constantsname on input line 132.
+Package scrbase Info: activating english \symbolsname on input line 132.
 ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 131.
+ on input line 132.
 
 \c@minilofdepth=\count492
 \c@minilotdepth=\count493
@@ -2230,278 +2249,79 @@ Package biblatex Info: Data encoding 'utf8' specified.
 \openout5 = `MastersThesis-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-
-Package biblatex Warning: File 'MastersThesis.bbl' is wrong format version - ex
-pected 3.0.
-
 Package biblatex Info: ... file 'MastersThesis.bbl' found.
 (MastersThesis.bbl
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 39.
+(csquotes)                Punctuation tracker may fail on input line 38.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 60.
+(csquotes)                Punctuation tracker may fail on input line 65.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 86.
+(csquotes)                Punctuation tracker may fail on input line 92.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 126.
+(csquotes)                Punctuation tracker may fail on input line 110.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 154.
+(csquotes)                Punctuation tracker may fail on input line 138.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 188.
+(csquotes)                Punctuation tracker may fail on input line 156.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 222.
+(csquotes)                Punctuation tracker may fail on input line 178.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 256.
+(csquotes)                Punctuation tracker may fail on input line 205.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 282.
+(csquotes)                Punctuation tracker may fail on input line 225.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 310.
+(csquotes)                Punctuation tracker may fail on input line 246.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 344.
+(csquotes)                Punctuation tracker may fail on input line 270.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 365.
+(csquotes)                Punctuation tracker may fail on input line 303.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 400.
+(csquotes)                Punctuation tracker may fail on input line 342.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 427.
+(csquotes)                Punctuation tracker may fail on input line 363.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 460.
+(csquotes)                Punctuation tracker may fail on input line 391.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 488.
+(csquotes)                Punctuation tracker may fail on input line 428.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 515.
+(csquotes)                Punctuation tracker may fail on input line 448.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 536.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 564.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 597.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 624.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 651.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 672.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 710.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 733.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 765.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 798.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 831.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 859.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 886.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 908.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 929.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 968.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 995.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1019.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1042.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1082.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1105.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1140.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1163.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1189.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1217.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1237.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1288.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1321.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1342.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1366.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1393.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1415.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1437.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1461.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1494.
-
-
-Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'GM99':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1524.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1564.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1595.
-
-
-Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'HRK+10':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1642.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1701.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1738.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1778.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1811.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1837.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1857.
-
-
-Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'RR93':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1887.
+(csquotes)                Punctuation tracker may fail on input line 476.
 
 
 Package biblatex Warning: BibTeX reported the following issues
@@ -2510,90 +2330,57 @@ Package biblatex Warning: BibTeX reported the following issues
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1910.
+(csquotes)                Punctuation tracker may fail on input line 499.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1936.
+(csquotes)                Punctuation tracker may fail on input line 521.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1958.
+(csquotes)                Punctuation tracker may fail on input line 553.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 1990.
+(csquotes)                Punctuation tracker may fail on input line 581.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2018.
+(csquotes)                Punctuation tracker may fail on input line 602.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2039.
+(csquotes)                Punctuation tracker may fail on input line 624.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2061.
+(csquotes)                Punctuation tracker may fail on input line 650.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2083.
+(csquotes)                Punctuation tracker may fail on input line 682.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2105.
+(csquotes)                Punctuation tracker may fail on input line 721.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2126.
+(csquotes)                Punctuation tracker may fail on input line 754.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2150.
+(csquotes)                Punctuation tracker may fail on input line 780.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2190.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2227.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2249.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2277.
-
-
-Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'GMZ08':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2310.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2344.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2376.
-
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 2415.
+(csquotes)                Punctuation tracker may fail on input line 800.
 
 )
-Package biblatex Info: Reference section=0 on input line 131.
-Package biblatex Info: Reference segment=0 on input line 131.
+Package biblatex Info: Reference section=0 on input line 132.
+Package biblatex Info: Reference segment=0 on input line 132.
 \AtBeginShipoutBox=\box107
-Package hyperref Info: Link coloring ON on input line 131.
+Package hyperref Info: Link coloring ON on input line 132.
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\namere
 f.sty"
@@ -2605,42 +2392,42 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count498
 )
-LaTeX Info: Redefining \ref on input line 131.
-LaTeX Info: Redefining \pageref on input line 131.
-LaTeX Info: Redefining \nameref on input line 131.
+LaTeX Info: Redefining \ref on input line 132.
+LaTeX Info: Redefining \pageref on input line 132.
+LaTeX Info: Redefining \nameref on input line 132.
  (MastersThesis.out) (MastersThesis.out)
 \@outlinefile=\write6
 \openout6 = `MastersThesis.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 131.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 132.
 
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ppl.f
 d"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 131
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 132
 .
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.
 fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 131
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 132
 .
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.
 fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 131
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 132
 .
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.
 fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 131
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 132
 .
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.
@@ -2649,7 +2436,7 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 Package minitoc Info: I0024
 (minitoc)             PREPARING MINITOCS FROM MastersThesis.toc on input line 1
-34.
+35.
 Package minitoc Info: I0033
 (minitoc)             Writing MastersThesis.mtc1.
 \openout4 = `MastersThesis.mtc1'.
@@ -2670,10 +2457,22 @@ Package minitoc Info: I0033
 (minitoc)             Writing MastersThesis.mtc5.
 \openout4 = `MastersThesis.mtc5'.
 
+Package minitoc Info: I0033
+(minitoc)             Writing MastersThesis.mtc6.
+\openout4 = `MastersThesis.mtc6'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing MastersThesis.mtc7.
+\openout4 = `MastersThesis.mtc7'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing MastersThesis.mtc8.
+\openout4 = `MastersThesis.mtc8'.
+
 
 1: section
 LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 150.
+(Font)              Font shape `T5/ptm/b/n' tried instead on input line 151.
 
 Overfull \vbox (25.82703pt too high) has occurred while \output is active []
 
@@ -2686,87 +2485,10 @@ Overfull \vbox (25.82703pt too high) has occurred while \output is active []
 
 {C:/Users/Kangaroo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 --------------------
- L\IeC {\`\ohorn }i cam \IeC {\dj }oan
---------------------
-LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 188.
-
-Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 188.
-
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 191.
-
-
-("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.f
-d"
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 191.
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--204
-
- []
-
-1: section
-
-Package scrlayer-scrpage Warning: \headheight to low.
-(scrlayer-scrpage)                At least 21.74998pt needed,
-(scrlayer-scrpage)                but only -25.82703pt found.
-(scrlayer-scrpage)                I'll enlarge \headheight, for further
-(scrlayer-scrpage)                processing, but you should do this yourself,
-(scrlayer-scrpage)                e.g., setting geometry's option
-(scrlayer-scrpage)                `head=21.74998pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 2
-05.
-
-
-Overfull \vbox (47.57701pt too high) has occurred while \output is active []
-
-
-[1
-
-]
---------------------
- T\'om t\'\abreve t n\d \ocircumflex i dung
---------------------
-LaTeX Font Info:    Try loading font information for T5+pcr on input line 215.
-("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/vntex\t5pcr.fd"
-File: t5ucr.fd 2005/08/24 Fontinst v1.929 font definitions for T5/pcr.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-
-Overfull \hbox (6.36488pt too wide) in paragraph at lines 217--218
-\T5/ptm/b/n/12 Tø khâa: \T5/ptm/m/n/12 cì håc vªt li»u, ph÷ìng tr¼nh  n hçi, p
-h÷ìng ph¡p ph¦n tû húu h¤n, \T5/pcr/m/n/12 Freefem++ 
- []
-
-1: section
-[2
-
-
-]
---------------------
  L\IeC {\`\ohorn }i c\IeC {\h a}m \IeC {\ohorn }n
 --------------------
+LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T5/ptm/b/n' tried instead on input line 228.
 
 Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
@@ -2777,86 +2499,103 @@ Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
-1: section
-[3
 
-] (MastersThesis.toc)
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+LaTeX Font Info:    Try loading font information for T5+pcr on input line 238.
+("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/vntex\t5pcr.fd"
+File: t5ucr.fd 2005/08/24 Fontinst v1.929 font definitions for T5/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
+
+ []
+
+1: section
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 18.12498pt needed,
+(scrlayer-scrpage)                but only -25.82703pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting geometry's option
+(scrlayer-scrpage)                `head=18.12498pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 2
+53.
+
+
+Overfull \vbox (43.95201pt too high) has occurred while \output is active []
+
+
+[1
+
+] (MastersThesis.toc
+1: section
+[2])
 \tf@toc=\write7
 \openout7 = `MastersThesis.toc'.
 
 
-1: section
-[4] [5] (MastersThesis.lof)
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 21.74998pt needed,
+(scrlayer-scrpage)                but only 18.12498pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting geometry's option
+(scrlayer-scrpage)                `head=21.74998pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 2
+56.
+
+
+Overfull \vbox (3.625pt too high) has occurred while \output is active []
+
+ [3]
+(MastersThesis.lof)
 \tf@lof=\write8
 \openout8 = `MastersThesis.lof'.
 
 
 1: section
-[6] (MastersThesis.lot)
+[4] [5] (MastersThesis.lot)
 \tf@lot=\write9
 \openout9 = `MastersThesis.lot'.
 
 
 1: section
-[7] (MastersThesis.loa)
-\tf@loa=\write10
-\openout10 = `MastersThesis.loa'.
-
-
-1: section
-[8
-
-]
-1: section
-\openout2 = `Chapters/Introduction.aux'.
-
-(Chapters/Introduction.tex
+[6]
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 4.
-
-
-LaTeX Warning: Citation 'Lev53' on page 1 undefined on input line 4.
+(csquotes)                Punctuation tracker may fail on input line 284.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 4.
-
-
-LaTeX Warning: Citation 'ArK67' on page 1 undefined on input line 4.
+(csquotes)                Punctuation tracker may fail on input line 284.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 4.
-
-
-LaTeX Warning: Citation 'Ode91' on page 1 undefined on input line 4.
+(csquotes)                Punctuation tracker may fail on input line 284.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 4.
-
-
-LaTeX Warning: Citation 'TuC56' on page 1 undefined on input line 4.
+(csquotes)                Punctuation tracker may fail on input line 284.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 4.
-
-
-LaTeX Warning: Citation 'Clo60' on page 1 undefined on input line 4.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
+(csquotes)                Punctuation tracker may fail on input line 284.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 14.
+(csquotes)                Punctuation tracker may fail on input line 284.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
 
  []
 
@@ -2864,19 +2603,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 [1
 
 
-
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 295.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
-) [2]
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+[2]
+1: section
 Ch\uhorn \ohorn ng 1.
 LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 271.
+(Font)              Font shape `T5/ptm/b/n' tried instead on input line 302.
 LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 272.
-LaTeX Font Info:    Try loading font information for U+fplmbb on input line 279
+(Font)              Font shape `T5/ptm/b/n' tried instead on input line 303.
+LaTeX Font Info:    Try loading font information for U+fplmbb on input line 310
 .
 
 ("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ufplmbb.
@@ -2886,113 +2635,149 @@ File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 1: section
 [3
 
+] [4] [5] [6]
 
-] [4] [5] [6] [7]
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 382.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 382.
+
+[7]
 Ch\uhorn \ohorn ng 2.
 \openout4 = `MastersThesis.mtc'.
 
 \openout4 = `MastersThesis.mtc'.
 
 LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T5/ptm/b/n' tried instead on input line 355.
-(MastersThesis.mtc4
+(Font)              Font shape `T5/ptm/b/n' tried instead on input line 386.
+(MastersThesis.mtc3
 LaTeX Font Info:    Font shape `T5/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T5/ptm/b/n' tried instead on input line 1.
 )
-
-LaTeX Warning: Reference `sec:chap1_spatialDiscrete' on page 8 undefined on inp
-ut line 356.
-
 1: section
 [8
 
 ]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 401.
+
+
+("C:\Users\Kangaroo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.f
+d"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 401.
+
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 373.
+(csquotes)                Punctuation tracker may fail on input line 404.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 404.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 404.
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 398--399
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
 
  []
 
-[10] [11] [12] [13]
+[10] [11]
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 467.
+(csquotes)                Punctuation tracker may fail on input line 456.
 
 
-LaTeX Warning: Citation 'TIT-07' on page 14 undefined on input line 467.
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 456.
+
+[12]
+Overfull \hbox (0.24681pt too wide) in paragraph at lines 478--481
+[][]$\T5/pcr/m/n/12 http : / / github . com / kangandroo / ApplicationOfMathema
+tics2018$[][]\T5/ptm/m/n/12 .
+ []
+
+[13]
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 501.
 
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-2-1.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-2-1.pdf, id=318, 536.31966pt x 147.58337pt>
+<Figures/paper/4-2-1.pdf, id=384, 536.31966pt x 147.58337pt>
 File: Figures/paper/4-2-1.pdf Graphic file (type pdf)
 <use Figures/paper/4-2-1.pdf>
-Package pdftex.def Info: Figures/paper/4-2-1.pdf  used on input line 470.
-(pdftex.def)             Requested size: 426.79137pt x 117.44307pt.
+Package pdftex.def Info: Figures/paper/4-2-1.pdf  used on input line 504.
+(pdftex.def)             Requested size: 412.56499pt x 113.52919pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-2-2.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-2-2.pdf, id=320, 521.8657pt x 156.71149pt>
+<Figures/paper/4-2-2.pdf, id=386, 521.8657pt x 156.71149pt>
 File: Figures/paper/4-2-2.pdf Graphic file (type pdf)
 <use Figures/paper/4-2-2.pdf>
-Package pdftex.def Info: Figures/paper/4-2-2.pdf  used on input line 477.
-(pdftex.def)             Requested size: 426.79137pt x 128.16469pt.
+Package pdftex.def Info: Figures/paper/4-2-2.pdf  used on input line 511.
+(pdftex.def)             Requested size: 412.56499pt x 123.89395pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-2-3.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-2-3.pdf, id=323, 535.55882pt x 157.47232pt>
+<Figures/paper/4-2-3.pdf, id=389, 535.55882pt x 157.47232pt>
 File: Figures/paper/4-2-3.pdf Graphic file (type pdf)
 <use Figures/paper/4-2-3.pdf>
-Package pdftex.def Info: Figures/paper/4-2-3.pdf  used on input line 484.
-(pdftex.def)             Requested size: 426.79137pt x 125.49504pt.
+Package pdftex.def Info: Figures/paper/4-2-3.pdf  used on input line 518.
+(pdftex.def)             Requested size: 412.56499pt x 121.31172pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-2-4.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-2-4.pdf, id=324, 532.51547pt x 149.86488pt>
+<Figures/paper/4-2-4.pdf, id=390, 532.51547pt x 149.86488pt>
 File: Figures/paper/4-2-4.pdf Graphic file (type pdf)
 <use Figures/paper/4-2-4.pdf>
-Package pdftex.def Info: Figures/paper/4-2-4.pdf  used on input line 490.
-(pdftex.def)             Requested size: 426.79137pt x 120.11388pt.
+Package pdftex.def Info: Figures/paper/4-2-4.pdf  used on input line 524.
+(pdftex.def)             Requested size: 412.56499pt x 116.10977pt.
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 495.
-
-
-LaTeX Warning: Citation 'TIT-07' on page 14 undefined on input line 495.
+(csquotes)                Punctuation tracker may fail on input line 529.
 
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-3-1.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-3-1.pdf, id=327, 762.77875pt x 234.79118pt>
+<Figures/paper/4-3-1.pdf, id=394, 762.77875pt x 234.79118pt>
 File: Figures/paper/4-3-1.pdf Graphic file (type pdf)
 <use Figures/paper/4-3-1.pdf>
-Package pdftex.def Info: Figures/paper/4-3-1.pdf  used on input line 498.
-(pdftex.def)             Requested size: 426.79137pt x 131.37468pt.
+Package pdftex.def Info: Figures/paper/4-3-1.pdf  used on input line 532.
+(pdftex.def)             Requested size: 412.56499pt x 126.99313pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-3-2.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-3-2.pdf, id=328, 529.98pt x 161.85469pt>
+<Figures/paper/4-3-2.pdf, id=395, 529.98pt x 161.85469pt>
 File: Figures/paper/4-3-2.pdf Graphic file (type pdf)
 <use Figures/paper/4-3-2.pdf>
-Package pdftex.def Info: Figures/paper/4-3-2.pdf  used on input line 504.
-(pdftex.def)             Requested size: 426.79137pt x 130.34337pt.
+Package pdftex.def Info: Figures/paper/4-3-2.pdf  used on input line 538.
+(pdftex.def)             Requested size: 412.56499pt x 125.99669pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--508
+Underfull \hbox (badness 10000) in paragraph at lines 529--542
 
  []
 
 [14 <./Figures/paper/4-2-1.pdf>] [15 <./Figures/paper/4-2-2.pdf> <./Figures/pap
 er/4-2-3.pdf> <./Figures/paper/4-2-4.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 543.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
 
  []
 
@@ -3000,128 +2785,284 @@ Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-3-3.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-3-3.pdf, id=346, 620.00034pt x 511.21489pt>
+<Figures/paper/4-3-3.pdf, id=415, 620.00034pt x 511.21489pt>
 File: Figures/paper/4-3-3.pdf Graphic file (type pdf)
 <use Figures/paper/4-3-3.pdf>
-Package pdftex.def Info: Figures/paper/4-3-3.pdf  used on input line 513.
-(pdftex.def)             Requested size: 256.07742pt x 211.15175pt.
+Package pdftex.def Info: Figures/paper/4-3-3.pdf  used on input line 547.
+(pdftex.def)             Requested size: 247.5415pt x 204.10791pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-3-4.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-3-4.pdf, id=347, 722.7pt x 522.62654pt>
+<Figures/paper/4-3-4.pdf, id=416, 722.7pt x 522.62654pt>
 File: Figures/paper/4-3-4.pdf Graphic file (type pdf)
 <use Figures/paper/4-3-4.pdf>
-Package pdftex.def Info: Figures/paper/4-3-4.pdf  used on input line 520.
-(pdftex.def)             Requested size: 256.07742pt x 185.18681pt.
+Package pdftex.def Info: Figures/paper/4-3-4.pdf  used on input line 554.
+(pdftex.def)             Requested size: 247.5415pt x 179.00648pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-3-5.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-3-5.pdf, id=348, 598.69975pt x 501.32596pt>
+<Figures/paper/4-3-5.pdf, id=417, 598.69975pt x 501.32596pt>
 File: Figures/paper/4-3-5.pdf Graphic file (type pdf)
 <use Figures/paper/4-3-5.pdf>
-Package pdftex.def Info: Figures/paper/4-3-5.pdf  used on input line 526.
-(pdftex.def)             Requested size: 256.07742pt x 214.42616pt.
+Package pdftex.def Info: Figures/paper/4-3-5.pdf  used on input line 560.
+(pdftex.def)             Requested size: 247.5415pt x 207.28143pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--530
+Underfull \hbox (badness 10000) in paragraph at lines 551--564
 
  []
 
 [16 <./Figures/paper/4-3-1.pdf> <./Figures/paper/4-3-2.pdf>]
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 531.
+(csquotes)                Punctuation tracker may fail on input line 565.
 
-
-LaTeX Warning: Citation 'TIT-07' on page 17 undefined on input line 531.
-
-<Figures/paper/4-4.pdf, id=362, 160.38719pt x 161.44215pt>
+<Figures/paper/4-4.pdf, id=432, 160.38719pt x 161.44215pt>
 File: Figures/paper/4-4.pdf Graphic file (type pdf)
 <use Figures/paper/4-4.pdf>
-Package pdftex.def Info: Figures/paper/4-4.pdf  used on input line 534.
-(pdftex.def)             Requested size: 170.71393pt x 171.84715pt.
+Package pdftex.def Info: Figures/paper/4-4.pdf  used on input line 568.
+(pdftex.def)             Requested size: 247.5415pt x 249.18578pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-4-1.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-4-1.pdf, id=366, 934.49126pt x 614.295pt>
+<Figures/paper/4-4-1.pdf, id=436, 934.49126pt x 614.295pt>
 File: Figures/paper/4-4-1.pdf Graphic file (type pdf)
 <use Figures/paper/4-4-1.pdf>
-Package pdftex.def Info: Figures/paper/4-4-1.pdf  used on input line 541.
-(pdftex.def)             Requested size: 256.07742pt x 168.33643pt.
+Package pdftex.def Info: Figures/paper/4-4-1.pdf  used on input line 575.
+(pdftex.def)             Requested size: 247.5415pt x 162.72177pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-4-2.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-4-2.pdf, id=367, 934.49126pt x 614.295pt>
+<Figures/paper/4-4-2.pdf, id=437, 934.49126pt x 614.295pt>
 File: Figures/paper/4-4-2.pdf Graphic file (type pdf)
 <use Figures/paper/4-4-2.pdf>
-Package pdftex.def Info: Figures/paper/4-4-2.pdf  used on input line 547.
-(pdftex.def)             Requested size: 256.07742pt x 168.33643pt.
+Package pdftex.def Info: Figures/paper/4-4-2.pdf  used on input line 581.
+(pdftex.def)             Requested size: 247.5415pt x 162.72177pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-5.pdf): PDF inclusion: found P
 DF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-5.pdf, id=368, 447.31316pt x 443.50995pt>
+<Figures/paper/4-5.pdf, id=438, 447.31316pt x 443.50995pt>
 File: Figures/paper/4-5.pdf Graphic file (type pdf)
 <use Figures/paper/4-5.pdf>
-Package pdftex.def Info: Figures/paper/4-5.pdf  used on input line 554.
-(pdftex.def)             Requested size: 256.07742pt x 253.91315pt.
+Package pdftex.def Info: Figures/paper/4-5.pdf  used on input line 588.
+(pdftex.def)             Requested size: 247.5415pt x 245.44035pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-5-1.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-5-1.pdf, id=371, 450.35654pt x 435.14168pt>
+<Figures/paper/4-5-1.pdf, id=441, 450.35654pt x 435.14168pt>
 File: Figures/paper/4-5-1.pdf Graphic file (type pdf)
 <use Figures/paper/4-5-1.pdf>
-Package pdftex.def Info: Figures/paper/4-5-1.pdf  used on input line 561.
-(pdftex.def)             Requested size: 256.07742pt x 247.42911pt.
+Package pdftex.def Info: Figures/paper/4-5-1.pdf  used on input line 595.
+(pdftex.def)             Requested size: 247.5415pt x 239.18259pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/paper/4-5-2.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<Figures/paper/4-5-2.pdf, id=372, 451.8772pt x 435.90251pt>
+<Figures/paper/4-5-2.pdf, id=442, 451.8772pt x 435.90251pt>
 File: Figures/paper/4-5-2.pdf Graphic file (type pdf)
 <use Figures/paper/4-5-2.pdf>
-Package pdftex.def Info: Figures/paper/4-5-2.pdf  used on input line 567.
-(pdftex.def)             Requested size: 256.07742pt x 247.02367pt.
+Package pdftex.def Info: Figures/paper/4-5-2.pdf  used on input line 601.
+(pdftex.def)             Requested size: 247.5415pt x 238.78932pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--571
+Underfull \hbox (badness 10000) in paragraph at lines 565--605
 
  []
 
 [17 <./Figures/paper/4-3-3.pdf> <./Figures/paper/4-3-4.pdf>] [18 <./Figures/pap
-er/4-3-5.pdf> <./Figures/paper/4-4.pdf>] [19 <./Figures/paper/4-4-1.pdf> <./Fig
-ures/paper/4-4-2.pdf>] [20 <./Figures/paper/4-5.pdf> <./Figures/paper/4-5-1.pdf
->] [21 <./Figures/paper/4-5-2.pdf>]
+er/4-3-5.pdf>] [19 <./Figures/paper/4-4.pdf> <./Figures/paper/4-4-1.pdf>]
+[20 <./Figures/paper/4-4-2.pdf> <./Figures/paper/4-5.pdf>] [21 <./Figures/paper
+/4-5-1.pdf> <./Figures/paper/4-5-2.pdf>] [22]
 Ch\uhorn \ohorn ng 3.
 \openout4 = `MastersThesis.mtc'.
 
 \openout4 = `MastersThesis.mtc'.
 
-(MastersThesis.mtc5)
+(MastersThesis.mtc4)
 1: section
-[22
+[23
 
 ]
-<Figures/exampipe.png, id=437, 540.51938pt x 394.47375pt>
+<Figures/exampipe.png, id=512, 540.51938pt x 394.47375pt>
 File: Figures/exampipe.png Graphic file (type png)
 <use Figures/exampipe.png>
-Package pdftex.def Info: Figures/exampipe.png  used on input line 598.
-(pdftex.def)             Requested size: 256.07742pt x 186.88942pt.
- [23 <./Figures/exampipe.png>]
-<Figures/examdcvc.png, id=446, 873.2625pt x 252.945pt>
+Package pdftex.def Info: Figures/exampipe.png  used on input line 632.
+(pdftex.def)             Requested size: 247.5415pt x 180.65355pt.
+ [24 <./Figures/exampipe.png>]
+<Figures/examdcvc.png, id=522, 873.2625pt x 252.945pt>
 File: Figures/examdcvc.png Graphic file (type png)
 <use Figures/examdcvc.png>
-Package pdftex.def Info: Figures/examdcvc.png  used on input line 607.
-(pdftex.def)             Requested size: 341.43439pt x 98.89902pt.
+Package pdftex.def Info: Figures/examdcvc.png  used on input line 641.
+(pdftex.def)             Requested size: 330.05324pt x 95.59904pt.
 
 
 Package csquotes Warning: No space factor codes for 'T5' encoding.
-(csquotes)                Punctuation tracker may fail on input line 611.
+(csquotes)                Punctuation tracker may fail on input line 645.
 
-[24 <./Figures/examdcvc.png>]
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 660.
+
+[25 <./Figures/examdcvc.png>]
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 662.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 662.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 662.
+
+Missing character: There is no ; in font nullfont!
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 707.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 708.
+
+[26]
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 714.
+
+[27]
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 734.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 734.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 736.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 741.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 747.
+
+[28] [29] [30]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 813.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 813.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 813.
+
+[31] [32]
+<Figures/w0.png, id=613, 596.98032pt x 572.89032pt>
+File: Figures/w0.png Graphic file (type png)
+<use Figures/w0.png>
+Package pdftex.def Info: Figures/w0.png  used on input line 838.
+(pdftex.def)             Requested size: 247.5415pt x 237.55273pt.
+<Figures/w4.png, id=614, 365.86688pt x 368.87813pt>
+File: Figures/w4.png Graphic file (type png)
+<use Figures/w4.png>
+Package pdftex.def Info: Figures/w4.png  used on input line 851.
+(pdftex.def)             Requested size: 206.28249pt x 207.98311pt.
+<Figures/w4.jpg, id=617, 642.4pt x 642.4pt>
+File: Figures/w4.jpg Graphic file (type jpg)
+<use Figures/w4.jpg>
+Package pdftex.def Info: Figures/w4.jpg  used on input line 858.
+(pdftex.def)             Requested size: 206.28249pt x 206.27795pt.
+<Figures/w3.png, id=618, 384.6872pt x 374.14781pt>
+File: Figures/w3.png Graphic file (type png)
+<use Figures/w3.png>
+Package pdftex.def Info: Figures/w3.png  used on input line 864.
+(pdftex.def)             Requested size: 206.28249pt x 200.63808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--868
+
+ []
+
+[33 <./Figures/w0.png>] [34 <./Figures/w4.png> <./Figures/w4.jpg>]
+<Figures/w1.png, id=631, 398.23781pt x 370.38374pt>
+File: Figures/w1.png Graphic file (type png)
+<use Figures/w1.png>
+Package pdftex.def Info: Figures/w1.png  used on input line 872.
+(pdftex.def)             Requested size: 206.28249pt x 191.85463pt.
+<Figures/w2.png, id=632, 387.69844pt x 374.14781pt>
+File: Figures/w2.png Graphic file (type png)
+<use Figures/w2.png>
+Package pdftex.def Info: Figures/w2.png  used on input line 878.
+(pdftex.def)             Requested size: 206.28249pt x 199.0738pt.
+<Figures/w5.jpg, id=633, 642.4pt x 642.4pt>
+File: Figures/w5.jpg Graphic file (type jpg)
+<use Figures/w5.jpg>
+Package pdftex.def Info: Figures/w5.jpg  used on input line 884.
+(pdftex.def)             Requested size: 206.28249pt x 206.27795pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--889
+
+ []
+
+[35 <./Figures/w3.png> <./Figures/w1.png>] [36 <./Figures/w2.png> <./Figures/w5
+.jpg>] [37]
+1: section
+[38
+
+]
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 913.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 913.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 913.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 913.
+
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 913.
+
+1: section
+[39
+
+]
+1: section
+[40
+
+]
+
+Package csquotes Warning: No space factor codes for 'T5' encoding.
+(csquotes)                Punctuation tracker may fail on input line 925.
+
+1: section
+[41
+
+]
+Overfull \hbox (5.12953pt too wide) in paragraph at lines 926--926
+\T5/ptm/m/it/12 si-tiv-ity Anal-y-sis\T5/ptm/m/n/12 , ser. Se-ries in Com-pu-ta
+-tional Math-e-mat-ics. Hei-del-berg: Springer,
+ []
+
+[42]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the MastersThesis.maf file.
@@ -3139,69 +3080,52 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the MastersThesis.log file.
 
-[25]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 643.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 643.
- (MastersThesis.aux (Chapters/Introduction.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 643.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 643.
+[43]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 930.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 930.
+ (MastersThesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 930.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 930.
 Package rerunfilecheck Info: File `MastersThesis.out' has not changed.
-(rerunfilecheck)             Checksum: A2F72344A004E21F200060E6C3F2DAE3;4291.
+(rerunfilecheck)             Checksum: 542CF66EF633F3992B5F33B8CE7A81E4;5556.
 
 
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                MastersThesis
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'MastersThesis.run.xml'.
 \openout1 = `MastersThesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 61773 strings out of 492902
- 1405756 string characters out of 3122405
- 1741807 words of memory out of 3000000
- 64504 multiletter control sequences out of 15000+200000
- 630304 words of font info for 134 fonts, out of 3000000 for 9000
+ 62126 strings out of 492902
+ 1409806 string characters out of 3122405
+ 1731823 words of memory out of 3000000
+ 64777 multiletter control sequences out of 15000+200000
+ 638161 words of font info for 140 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,20n,100p,1158b,2192s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{cite.0@Pir84} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@MP10} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@AJT04} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.0@Hec12} has been referenced but does not exis
-t, replaced by a fixed one
-
-{C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/vntex/t5.e
-nc}{C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r
-.enc}<C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmex10.pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Kangaroo/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Kangaroo/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/K
-angaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmbb.pf
-b><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathp
-azo/fplmr.pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/mathpazo/fplmri.pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/vntex/urwvn/ucrr8v.pfb><C:/Users/Kangaroo/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Kangaroo/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/Kangaroo/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/Kan
-garoo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/
-Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmr8v
-.pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/urw
-vn/utmri8v.pfb>
-Output written on MastersThesis.pdf (34 pages, 2556750 bytes).
+ 64i,20n,100p,1237b,2937s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/vntex/t5
+.enc}{C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/
+8r.enc}<C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmex10.pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Kangaroo/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Kangaroo/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmbb.
+pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mat
+hpazo/fplmr.pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/mathpazo/fplmri.pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/vntex/urwvn/ucrr8v.pfb><C:/Users/Kangaroo/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Kangaroo/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/Kangaroo/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/K
+angaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmr8v.pfb><C
+:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/urwvn/utmr
+8v.pfb><C:/Users/Kangaroo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/u
+rwvn/utmri8v.pfb>
+Output written on MastersThesis.pdf (50 pages, 3742273 bytes).
 PDF statistics:
- 537 PDF objects out of 1000 (max. 8388607)
- 106 named destinations out of 1000 (max. 500000)
- 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 768 PDF objects out of 1000 (max. 8388607)
+ 179 named destinations out of 1000 (max. 500000)
+ 349 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,18 +1,19 @@
 \chapter*{\centering Lời nói đầu}
 \addstarredchapter{Lời nói đầu}
 Bài toán biến dạng đàn hồi có ứng dụng rộng rãi trong cơ học vật liệu đặc biệt đối với các vấn đề liên quan đến độ bền, ứng suất và biến dạng. Độ bền của vật liệu là khả năng chịu đựng không bị nứt, gãy, phá hủy hay biến dạng dẻo dưới tác động của ngoại lực bên ngoài. Tùy theo các ngoại lực khác nhau mà đặc tính về độ bền của vật liệu cũng khác nhau: độ kéo, độ bền nén, độ bền cắt, độ bền uốn, độ bền mỏi, độ bền va đập, giới hạn chảy...\\
-Phương pháp phần tử hữu hạn giải bài toán đàn hồi bắt nguồn từ những năm 1950 khi các kỹ sư phát triển nó để giải quyết các vấn đề cơ học liên tục trong ngành hàng không (\cite{Lev53}, \cite{ArK67}, \cite{Ode91}). Những vấn đề này liên quan đến các hình học phức tạp không thể xử lý dễ dàng bằng các kỹ thuật hữu hạn cổ điển. Trong cùng thời gian đó, các nghiên cứu lý thuyết về sự gần đúng của phương trình đàn hồi tuyến tính đã được thực hiện \cite{TuC56}. Năm 1960, Clough đưa ra thuật ngữ "các phần tử hữu hạn" trong một bài báo liên quan đến độ co giãn tuyến tính theo hai chiều \cite{Clo60}.
+Phương pháp phần tử hữu hạn giải bài toán đàn hồi bắt nguồn từ những năm 1950 khi các kỹ sư phát triển nó để giải quyết các vấn đề cơ học liên tục trong ngành hàng không (\cite{Lev53}, \cite{ArK67}, \cite{ArK66}, \cite{Ode91}). Những vấn đề này liên quan đến các hình học phức tạp không thể xử lý dễ dàng bằng các kỹ thuật hữu hạn cổ điển. Trong cùng thời gian đó, các nghiên cứu lý thuyết về sự gần đúng của phương trình đàn hồi tuyến tính đã được thực hiện \cite{TuC56}. Năm 1960, Clough đưa ra thuật ngữ "các phần tử hữu hạn" trong một bài báo liên quan đến độ co giãn tuyến tính theo hai chiều \cite{Clo60}.
 
-Trong luận văn này, tác giả và nhóm nghiên trình bày phương pháp phần tử hữu hạn của bài toán biến dạng đàn hồi và ứng dụng trong độ bền nén, độ bền va đập của vật liệu. \\[-0.5cm]
+Trong luận văn này, tác giả và nhóm nghiên cứu trình bày phương pháp phần tử hữu hạn giải bài toán biến dạng đàn hồi và ứng dụng trong độ bền nén, độ bền va đập của vật liệu. \\[-0.5cm]
 
-Nội dung luận văn được trình bày trong hai chương:
+Nội dung luận văn được trình bày trong ba chương:
 \begin{itemize}
-\item[i.] Chương \ref{Chapter1}: trình bày phương pháp phần tử hữu hạn giải bài toán biến dạng đàn hồi. Phần này sẽ trình bày chi tiết các bước xây dựng lược đồ giải số cho một bài toán đạo hàm riêng cụ thể sử dụng phương pháp phần tử hữu hạn, là cơ sở phục vụ cho các ứng dụng sẽ được trình bày trong chương \ref{Chapter2}.
-\item[ii.] Chương \ref{Chapter2}: trình bày ví dụ và một vài ứng dụng của bài toán biến dạng đàn hồi trong công nghiệp vật liệu.
+\item[i.] Chương \ref{Chapter0}: trình bày một vài kiến thức cơ bản.
+\item[ii.] Chương \ref{Chapter1}: trình bày phương pháp phần tử hữu hạn giải bài toán biến dạng đàn hồi. Phần này sẽ trình bày chi tiết các bước xây dựng lược đồ giải số cho một bài toán đạo hàm riêng cụ thể sử dụng phương pháp phần tử hữu hạn, là cơ sở phục vụ cho các ví dụ tại chương này và ứng dụng trong bài toán tối ưu dạng trình bày trong chương \ref{Chapter2}.
+\item[iii.] Chương \ref{Chapter2}: giới thiệu bài toán tối ưu dạng và một vài ứng dụng của bài toán biến dạng đàn hồi trong công nghiệp vật liệu.
 \end{itemize}
 
 Mã nguồn chương trình của các thí nghiệm giải số được phát triển trên phần mềm \code{Freefem++}. Đây là một công cụ mã nguồn mở giải các bài toán đạo hàm riêng bằng phương pháp phần tử hữu hạn \cite{Hec12}. Các kết quả hình ảnh sử dụng trong luận văn được hỗ trợ bởi các phần mềm mã nguồn mở \code{gnuplot} (\url{http://www.gnuplot.info/}) và \code{Medit} (\url{http://www.ann.jussieu.fr/frey/software.html}).\\[-0.5cm]
 
-Luận văn được hoàn thành trong chương trình Thạc sĩ Khoa học Toán ứng dụng tại Viện Toán ứng dụng và Tin học, Đại học Bách Khoa Hà Nội dưới sự hướng dẫn của TS. Tạ Thị Thanh Mai. Luận văn đã được tóm tắt và công bố trên {\em A} số ??? tháng ? năm 2018, trang ??? - ??? với tiêu đề \textit{"???"}. Tác giả vẫn đang tiếp tục nghiên cứu mở rộng thêm các ứng dụng cho bài toán biến dạng đàn hồi trong các mô hình cơ học vật liệu khác.\\[-0.5cm]
+Luận văn được hoàn thành trong chương trình Thạc sĩ Khoa học Toán ứng dụng tại Viện Toán ứng dụng và Tin học, Đại học Bách Khoa Hà Nội dưới sự hướng dẫn của TS. Tạ Thị Thanh Mai. Chương \ref{Chapter2} của luận văn đã được tóm tắt và công bố trên {\em JOURNAL OF Mathematical Applications} số 2 vol XVI năm 2018, trang 37 - 50 với tiêu đề \textit{"SIMULATION OF LINEAR ELASTIC EQUATION AND APPLICATION IN MECHANICS OF MATERIALS"}. Tác giả vẫn đang tiếp tục nghiên cứu mở rộng thêm các ứng dụng cho bài toán biến dạng đàn hồi trong các mô hình cơ học vật liệu khác.\\[-0.5cm]
 
 Mặc dù được hoàn thành với nhiều cố gắng nhưng do những hạn chế về thời gian và kinh nghiệm, luận văn này không thể tránh khỏi những sai sót. Tác giả rất mong nhận được những ý kiến đóng góp quý báu từ thầy cô và các bạn học viên để luận văn được hoàn thiện hơn nữa.
